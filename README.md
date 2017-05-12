@@ -1,5 +1,6 @@
 # Machine_Learning
-##This repository shows my implementations in the Udacity's Machine Learning Nanodegree.
+## This repository shows my implementations in the Udacity's Machine Learning Nanodegree.
+---
 ## Project 3: Creating Customer Segments
 ## Content: Unsupervised Learning
 ### Install
